@@ -6,3 +6,6 @@ matplotlib
 scikit-learn
 kmodes
 tqdm
+plotly
+nbformat
+pypalettes
