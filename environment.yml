@@ -1,4 +1,4 @@
-name: dfsp-tutorial
+name: difit
 channels:
   - conda-forge
   - defaults
