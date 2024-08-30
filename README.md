@@ -1,4 +1,4 @@
-# digital-fsp-tutorial-backend
+# DataKind Data Insights for Financial Inclusion Toolkit (DIFIT)
 
 This repository accompanies the [DataKind Data Insights for Financial Inclusion Toolkit](https://difit.datakind.org/). This repository offers you the ability to use, run, and/or edit, the code yourself. 
 
