@@ -1,6 +1,6 @@
 # digital-fsp-tutorial-backend
 
-This repository accompanies the DataKind Data Insights for Financial Inclusion Toolkit, https://difit.datakind.org/. This repository offers you the ability to use, run, and/or edit, the code yourself. 
+This repository accompanies the [DataKind Data Insights for Financial Inclusion Toolkit](https://difit.datakind.org/). This repository offers you the ability to use, run, and/or edit, the code yourself. 
 
 For each tutorial track released on the website, there is an accompanying jupyter notebook with the same name. 
 
